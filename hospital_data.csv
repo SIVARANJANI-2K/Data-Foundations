@@ -1,0 +1,13 @@
+Patient_ID,Department,Age,Waiting_Time_Minutes,Treatment_Cost,Length_of_Stay_Days
+P101,Cardiology,55,45,15000,4
+P102,Neurology,42,30,12000,3
+P103,Orthopedics,65,60,20000,7
+P104,Dermatology,28,15,3000,1
+P105,Cardiology,70,75,25000,6
+P106,Neurology,35,25,8000,2
+P107,Orthopedics,50,50,18000,5
+P108,Dermatology,22,10,2500,1
+P109,Cardiology,60,40,17000,4
+P110,Neurology,48,55,14000,3
+P111,Orthopedics,72,80,30000,8
+P112,Dermatology,31,20,4000,2

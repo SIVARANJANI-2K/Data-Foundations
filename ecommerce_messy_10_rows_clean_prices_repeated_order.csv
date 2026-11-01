@@ -1,0 +1,12 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,UnitPrice,Quantity,City,Payment_Method
+ORD1001,01-10-2026 10:35, Ananya Rao ,Wireless Mouse,Electronics,799,2,Chennai,UPI
+ORD1002,02-10-2026 14:20,ravi kumar,cotton T-shirt, apparel ,499,1,BANGALORE,Credit Card
+ORD1003,03-10-2026,Meera Nair,Water Bottle,Home & Kitchen,299.5,3,Chennai ,Cash
+ORD1004,,Karthik S,Bluetooth Speaker,Electronics,1299,1,Hyderabad,UPI
+ORD1005,05-10-2026 09:15,Priya  Sharma,Notebook Set,Stationery,150,4,mumbai,Debit Card
+ORD1006,2026-10-06T18:45:00,Arjun Das,Running Shoes,Footwear,,1,Kolkata,UPI
+ORD1007,07-10-2026 11:05,Divya Iyer,Coffee Maker,Home & Kitchen,2499,2,Pune,Credit Card
+ORD1008,08-10-2026 16:10,Rahul Verma,Desk Lamp,Home & Kitchen,221,2,cHENNAI,UPI
+ORD1008,08-10-2026 16:10,Rahul Verma,Desk Lamp,Home & Kitchen,221,2,cHENNAI,UPI
+ORD1010,10-10-2026 20:30,  sneha menon,USB-C Cable ,electronics,199,5, Coimbatore,
+ORD1011,11-10-2026 12:30,Arjun Kumar,Luxury Diamond Watch,Accessories,999999,1,Chennai,Credit Card
